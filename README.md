@@ -22,4 +22,4 @@ This **IBM Employee Analytics Dashboard** provides insights into **employee demo
 ## 📥 How to Use  
 1. **Clone this repository**:  
    ```sh
-   git clone https://github.com/yourusername/IBM-Employee-Dashboard.git
+   git clone https://github.com/hariome62014/IBM_Employee_Analytics_Dashboard.git
