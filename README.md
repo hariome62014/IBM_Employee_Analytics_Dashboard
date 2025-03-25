@@ -1,6 +1,6 @@
 # IBM Employee Analytics Dashboard  
 
-![Dashboard Preview](./Dashboard2.png)  
+![Dashboard Preview](https://github.com/hariome62014/IBM_Employee_Analytics_Dashboard/blob/main/Dashboard2.png)  
 
 ## 📊 Overview  
 This **IBM Employee Analytics Dashboard** provides insights into **employee demographics, job roles, salaries, and work experience**. It helps HR and management analyze workforce distribution efficiently.  
@@ -12,8 +12,7 @@ This **IBM Employee Analytics Dashboard** provides insights into **employee demo
 - **Marital Status and Employee Count**  
 - **Number of Companies Worked For**  
 
-## 📷 Dashboard Preview  
-![Dashboard Screenshot](./Dashboard2.png)  
+
 
 ## 🛠 Tech Stack  
 - **Tableau / Power BI** – Dashboard creation  
